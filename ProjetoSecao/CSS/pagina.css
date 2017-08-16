@@ -1,0 +1,22 @@
+html{
+    text-align: center;
+}
+header {
+    border: 1px solid #FF4500;
+}
+img {
+    width: 125px;
+}
+main {
+    border: 1px solid #DAA520;
+    
+}
+li {
+    display: inline;
+}
+footer {
+    border: 1px solid #228B22;
+}
+section {
+    border: 1px solid #00BFFF;
+}
